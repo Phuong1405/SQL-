@@ -1,0 +1,7 @@
+CREATE TABLE Student (
+	StudentID INTEGER PRIMARY KEY,
+	Forename VARCHAR (32)NOT NULL,
+	Surname VARCHAR (60)NOT NULL, 
+	Address VARCHAR (100), 
+	Phonenum VARCHAR (15)
+)
