@@ -1,0 +1,2 @@
+### Exercise description
+Last, write a query that prints the average price, the highest price and the lowest price (in that order) for books that cost more than 20 but less than 30. You can add more aggregate functions in your SELECT the same way you would include more than one "normal" attribute in a standard SELECT. See the example output below: 
