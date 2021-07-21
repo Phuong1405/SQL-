@@ -1,0 +1,2 @@
+### Exercise description
+Provide a query that lists the titles and prices (in that order) of the books that cost less than 20 after 5 has been subtracted from their price; that is, their price is decreased by 5, and if the price then is under 20, the book is included in the listing. 
