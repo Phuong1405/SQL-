@@ -1,0 +1,2 @@
+### Exercise description
+Write a query that lists AuthorID and title for each book (in that order), but so that the books are sorted by their AuthorID values in normal, increasing order. Books that share the same AuthorID value should be ordered by their title alphabetically. 
