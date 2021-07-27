@@ -1,0 +1,2 @@
+## exercise description
+Write a query that tells how many books each author has written. On each row provide first the authorid, followed by the number of books. Order the listing so that the author with the most books written is at the top, and at the bottom are those that have written the fewest number of books. The authors that the same number of books written are further ordered by their AuthorID's in an increasing order. See the sample output below. 
