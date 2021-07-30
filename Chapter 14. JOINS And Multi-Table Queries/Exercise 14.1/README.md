@@ -1,0 +1,2 @@
+## Exercise description
+Write a query that lists for each book its title and the name of its publisher. Order the listing alphabetically by the books' titles. Rename the columns as shown on the result table below. 
