@@ -1,0 +1,2 @@
+## exercise description
+Write a query that provides the following information for all books published by Taylor & Wells and Classics4you: The book title, named as "Book"; the book price, named as "Price"; the number of pages, named as "Pages"; and finally, the author's surname, named as "Author". Order the listing by the book's title, alphabetically. See the result table below and note the capitalised column names: 
