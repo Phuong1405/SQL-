@@ -1,0 +1,1 @@
+Write a query that lists in an alphabetical order all book titles that contain the string " and "; that is, the word "and", preceded and followed by a white space. See the result table below:
